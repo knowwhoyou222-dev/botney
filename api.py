@@ -7,7 +7,7 @@ db = {}
 
 USE_DURATION = 300  # optional (μπορείς να το αφαιρέσεις αν θες instant burn)
 
-WEBHOOK = "ΒΑΛΕ_WEBHOOK_URL"
+WEBHOOK = "https://discord.com/api/webhooks/1494729829101207563/-XCAk_8zVlMTYAwHJ3b88oeSDz3BBwGrRWgiS6a219SMnfutfOzpkU9zrXKMzzvP6d8Q"
 
 def log(msg):
     try:
